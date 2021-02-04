@@ -1,6 +1,5 @@
 # ![Awakener's Orb](https://web.poecdn.com/image/Art/2DItems/Currency/TransferOrb.png) Awakened PoE Trade - 
 
-[![](./showcase/total-000-flat-square.svg)](https://somsubhra.github.io/github-release-stats/?username=SnosMe&repository=awakened-poe-trade)
 [![](./showcase/Discrod-Join-7289DA.svg)](https://discord.gg/NpGaMqC)
 
 
